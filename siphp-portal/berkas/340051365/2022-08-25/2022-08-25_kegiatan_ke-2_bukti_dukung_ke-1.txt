@@ -1,0 +1,22 @@
+Visual FoxPro Professional 9.0  (c) Microsoft 
+
+PROGRAM TYPE..: DEVELOPMENT
+
+Release Notes
+--------------
+Microsoft Visual FoxPro 9.0 provides the tools you need to create  
+and manage high-performance, 32-bit database applications and       
+components. Its robust tools and data-centric, object-oriented     
+language make it ideal for building modern, scalable, multitier     
+applications that integrate client/server computing and the       
+Internet.                                                          
+                                                                    
+http://msdn.microsoft.com/vfoxpro/
+
+Install Notes
+---------------
+*Use the following Product Key during install:  
+ W7YCJ-2RRMD-MMHGG-3MB7C-VBMYB                                   
+                                                                    
+                                                                     
+        
